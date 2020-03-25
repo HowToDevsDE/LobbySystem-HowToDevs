@@ -1,0 +1,5 @@
+name: LobbySystem
+api: 3.0.0
+author: MaloneYT
+main: LobbySystem\Main
+version: 1.0

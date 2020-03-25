@@ -1,0 +1,7 @@
+#Enable
+enable_message: "§alugin wurde erfolgreich geladen§8!"
+
+#Join Quit
+join_message: "{PLAYER} §ahat das Spiel betreten§8!"
+
+quit_message: "{PLAYER} §chat das Spiel verlassen§8!"
